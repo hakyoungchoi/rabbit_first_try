@@ -1,0 +1,17 @@
+{
+    "Money" : 100000,    
+    "HanKook" : {
+        "API_KEY" : "PSKDWCxqtcDGeqhksBpJzoaYGXm6j8Ij7uyK",
+        "API_SECRET" : "RJNGIWf1PxqLEixGeahywHk+yopNtfHTdFZkr1jQPS0tZTP9GLKdKD+HhSzm2y6zPSZ806gKvtI8aszFYAb/uifwO8dYZytMeh+//JL3uKhHMXNHhLLCMcFr6OvtnqjvUgChPheCsaEVBmr64c+5GKsz28yEnRuQbgAUCLEKqPksfgpmb6A=",
+        "ACOUNT_NUM" : "69447656-01",
+        "ID": "$1912242"
+    },
+    "TeleGram" : { 
+        "API_ID": "26575451",
+        "API_HASH" : "29e136fd19772879b23435241651de15",
+        "USER_NAME": "mimic",
+        "PHONE_NUM" : "821066649293"
+    }
+}
+
+                
